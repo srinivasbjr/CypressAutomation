@@ -1,0 +1,21 @@
+
+[
+{
+    "username":"Admin",
+    "password":"admin123",
+    "expected":"Dashboard",
+    "url":"https://opensource-demo.orangehrmlive.com/"
+},
+{
+    "username":"Admin",
+    "password":"admin1234",
+    "expected":"Invalid credentials",
+    "url":"https://opensource-demo.orangehrmlive.com/"
+},
+{
+    "username":"Admin1",
+    "password":"admin123",
+    "expected":"Invalid credentials",
+    "url":"https://opensource-demo.orangehrmlive.com/"
+}
+]

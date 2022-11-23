@@ -1,0 +1,6 @@
+{
+    "name": "cypressnameAuto",
+    "gender": "female",
+    "status":"active",
+    "body": "Fixtures are a great way to mock data for responses to routes"
+  }
